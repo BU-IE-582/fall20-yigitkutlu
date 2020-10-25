@@ -1,4 +1,4 @@
-#Yiğit Kutlu Progress Journal
+# Yiğit Kutlu Progress Journal
 
 ## Week 0 (October 25)
 
