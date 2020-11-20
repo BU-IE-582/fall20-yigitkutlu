@@ -8,5 +8,6 @@
 ## HW1 (November 20)
 
 [Here](files\YigitKutlu-HW1.html) you can obserbe my HW1 assignment.
+
 [Here](files\YigitKutlu-HW1.ipynb) is the code for my HW1 assignment.
 
