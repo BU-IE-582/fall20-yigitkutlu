@@ -11,3 +11,9 @@
 
 [Here](files\YigitKutlu-HW1.ipynb) is the code for my HW1 assignment.
 
+
+## HW2 (December 11)
+
+[Here](files\YigitKutlu-HW2.html) you can obserbe my HW2 assignment.
+
+[Here](files\YigitKutlu-HW2.ipynb) is the code for my HW2 assignment.
