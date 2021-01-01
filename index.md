@@ -17,3 +17,9 @@
 [Here](files\YigitKutlu-HW2.html) you can obserbe my HW2 assignment.
 
 [Here](files\YigitKutlu-HW2.ipynb) is the code for my HW2 assignment.
+
+## HW3 (January 1)
+
+[Here](files\YigitKutlu-HW3.html) you can obserbe my HW3 assignment.
+
+[Here](files\YigitKutlu-HW3.ipynb) is the code for my HW3 assignment.
