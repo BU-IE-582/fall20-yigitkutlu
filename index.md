@@ -29,3 +29,9 @@
 [Here](files\YigitKutlu-HW4.html) you can obserbe my HW4 assignment.
 
 [Here](files\YigitKutlu-HW4.ipynb) is the code for my HW4 assignment.
+
+## PROJECT (February 15)
+
+[Here](files\project_ChE-origin -Final.html) you can obserbe our PROJECT assignment.
+
+[Here](files\project_ChE-origin -Final.ipynb) is the code for my PROJECT assignment.
