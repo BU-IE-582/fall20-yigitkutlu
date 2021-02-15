@@ -32,6 +32,7 @@
 
 ## PROJECT (February 15)
 
-[Here](files\project_ChE-origin -Final.html) you can obserbe our PROJECT assignment.
 
-[Here](files\project_ChE-origin -Final.ipynb) is the code for my PROJECT assignment.
+[Here](files\project_ChE-origin -Final.html) is the HTML file for project code.
+
+[Here](files\project_ChE-origin -Final.ipynb) is the code for project assignment.
