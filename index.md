@@ -32,7 +32,10 @@
 
 ## PROJECT (February 15)
 
+[Here](files\ReportofProjectbyChE-origin.html) is the report for the project assignment.
 
-[Here](files\project_ChE-origin -Final.html) is the HTML file for project code.
+[Here](files\ReportofProjectbyChE-origin.ipynb) is the code for the report of the project assignment.
 
-[Here](files\project_ChE-origin -Final.ipynb) is the code for project assignment.
+[Here](files\project_ChE-origin -Final.html) is the HTML file for the project code.
+
+[Here](files\project_ChE-origin -Final.ipynb) is the code used for project assignment.
